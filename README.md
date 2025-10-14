@@ -22,7 +22,13 @@ quando o usuário quiser sair do programa, ele seleciona a opção de sair e sai
 
 Tabela de opções: 
 
+images/Tabela.png
+
 Requisitando os números: 
 
+images/Números.png
+
 Valor da operação resolvida: 
+
+images/Resposta.png
 
