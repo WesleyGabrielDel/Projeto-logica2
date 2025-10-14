@@ -1,4 +1,4 @@
-# Cauculadora
+# Calculadora
 
 ----------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Turma: 1°D
 
 # Explicação do Projeto
 
-  Meu projeto é uma cauculadora básica em que utiliza as estruturas de repetição. Utilizei a biblioteca "<stdbool.h>" para 
+  Meu projeto é uma calculadora básica em que utiliza as estruturas de repetição. Utilizei a biblioteca "<stdbool.h>" para 
 incluir valores booleanos a o meu projeto. 
   O programa começa mostrando uma tabela de opções que o usuário pode escolher, e de acordo com elas, pedir os dois números
 necessários, realizar a operação e retornar o valor ao usuário. Para o projeto ser contínuo, utilizei um loop While para que,
@@ -22,13 +22,13 @@ quando o usuário quiser sair do programa, ele seleciona a opção de sair e sai
 
 Tabela de opções: 
 
-images/Tabela.png
+Images/Tabela.png
 
 Requisitando os números: 
 
-images/Números.png
+Images/Números.png
 
 Valor da operação resolvida: 
 
-images/Resposta.png
+Images/Resposta.png
 
