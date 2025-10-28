@@ -30,5 +30,35 @@ Images/Números.png
 
 Valor da operação resolvida: 
 
+# Calculadora de Potenciação
+
+----------------------------------------------------------------
+
+# Explicação do Projeto
+
+  Meu projeto é uma calculadora de potenciação em que você digita o número base que deseja elevar e o expoente que deseja. 
+Ele faz automáticamente o cáuculo com a função "pow()".
+  Eu utilizei a biblioteca math para ter a função citada anteriormente em meu projeto.
+
+----------------------------------------------------------------
+
+# Prints do Projeto
+
+Tabela de opções: 
+
+Images/Tabela.png
+
+Requisitando os números: 
+
+Images/Números.png
+
+Valor da operação resolvida: 
+
+# Validação de Senha
+
+----------------------------------------------------------------
+
+
+
 Images/Resposta.png
 
