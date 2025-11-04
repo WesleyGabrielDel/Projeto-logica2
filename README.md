@@ -46,22 +46,25 @@ Ele faz automáticamente o cáuculo com a função "pow()".
 
 # Prints do Projeto
 
-Tabela de opções: 
+Cauculadora: 
 
-Images/Tabela.png
+Images/Potenciacao.png
 
-Requisitando os números: 
-
-Images/Números.png
-
-Valor da operação resolvida: 
 
 ----------------------------------------------------------------
 # Validação de Senha
 
 ----------------------------------------------------------------
 
+  Meu projeto requisita ao usuário uma senha. Ao digitar, o usuário deve validar sua senha escrevendo-a novamente.
+Caso a senha não corresponder a senha que o usuário digitou anteriormente, ele repetirá a validação até o usuário
+acertar a senha.
 
+----------------------------------------------------------------
 
-Images/Resposta.png
+# Prints do Projeto
+
+Projeto: 
+
+Images/Validação.png
 
