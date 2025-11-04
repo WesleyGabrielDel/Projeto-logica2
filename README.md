@@ -31,6 +31,8 @@ Images/Números.png
 
 Valor da operação resolvida: 
 
+Images/Resposta.png
+
 ----------------------------------------------------------------
 # Calculadora de Potenciação
 
